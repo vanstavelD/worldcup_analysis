@@ -37,7 +37,8 @@ Ce projet a été réalisé dans le cadre de ma candidature à la formation **Da
 
 ## 📁 Organisation
 
-- `fifaworldcup_cleaned.csv` : données nettoyées
+- `fifaworldcup_cleaned.csv` : fichier csv nettoyé
+- `fifaworldcup.csv` : fichier csv brut
 - `worldcup_cleaning.ipynb` : notebook de nettoyage de données
 - `worldcup_analysis.ipynb` : notebook d’analyse et visualisations
 
