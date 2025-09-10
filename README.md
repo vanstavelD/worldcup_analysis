@@ -40,7 +40,6 @@ Ce projet a été réalisé dans le cadre de ma candidature à la formation **Da
 - `fifaworldcup_cleaned.csv` : données nettoyées
 - `worldcup_cleaning.ipynb` : notebook de nettoyage de données
 - `worldcup_analysis.ipynb` : notebook d’analyse et visualisations
-- `slides/` : support de présentation (Google Slides)
 
 ## 🙋‍♂️ Auteur
 
